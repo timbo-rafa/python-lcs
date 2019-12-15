@@ -3,6 +3,10 @@ A string is said to be a child of a another string if it can be formed by deleti
 For example, ABCD and ABDC have two children with maximum length 3, ABC and ABD. They can be formed by eliminating either the D or C from both strings. Note that we will not consider ABCD as a common child because we can't rearrange characters and ABCD != ABDC.
 
 
-### Hackerrank Problem
+#### Hackerrank Problem
 
 https://www.hackerrank.com/challenges/common-child
+
+#### Solution
+
+https://en.wikipedia.org/wiki/Longest_palindromic_substring
